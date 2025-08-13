@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=x30noid.x30noid&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=debskr.debskr&"  />
 </div>
 
 ###
